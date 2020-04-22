@@ -72,7 +72,7 @@ print('Independent var test - ',iv_test)
 print('Dependent var training - ',dv_train)
 print('Dependent var test - ',dv_test)
 
-
+#Going to learn how to close issues and then start with next section on udemy.
 
 
 
